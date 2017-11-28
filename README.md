@@ -1,3 +1,3 @@
 # GRPRO projekt
 
-commit1 fra nikolaj
+commit 1 resolved
